@@ -18,7 +18,7 @@
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
                     
-                    <a class="nav-item nav-link" href="Default.aspx">Default Cookie</a>
+                    <a class="nav-item nav-link" href="Default.aspx">Home</a>
                     <a class="nav-item nav-link" href="PageTwo.aspx">Page Two</a>
                     <a class="nav-item nav-link" href="PageThree.aspx">Page Three</a>
             </div>
