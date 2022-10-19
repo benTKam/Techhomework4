@@ -80,7 +80,7 @@
 </div>
     <div>
         <div class="row">
-  <div class="col-md-8 mb-4">
+  <div class="col-md-8 mb-4" style="margin-top: 2%">
     <div class="card mb-4">
       <div class="card-header py-3">
         <h5 class="mb-0">Perscription Details</h5>
@@ -114,19 +114,19 @@
           <!-- Email input -->
           <div class="form-outline mb-4">
             <input type="email" id="form7Example5" class="form-control" />
-            <label class="form-label" for="form7Example5">Email</label>
+            <label class="form-label" for="form7Example5">Perscription</label>
           </div>
 
           <!-- Number input -->
           <div class="form-outline mb-4">
             <input type="number" id="form7Example6" class="form-control" />
-            <label class="form-label" for="form7Example6">Phone</label>
+            <label class="form-label" for="form7Example6">Amount</label>
           </div>
 
           <!-- Message input -->
           <div class="form-outline mb-4">
             <textarea class="form-control" id="form7Example7" rows="4"></textarea>
-            <label class="form-label" for="form7Example7">Additional Information</label>
+            <label class="form-label" for="form7Example7">Perscrption Instructions</label>
           </div>
             
 
@@ -141,8 +141,9 @@
 </div>
 </div>
 </div>
-<div class="button">
-    <img src=""
+<div class="button" style="margin-left:25%">
     <button type="button" class="btn btn-primary btn-lg">Ship Order</button>
+    <img src="images/doggie.png" alt="paw" style="height: 280px; width: 285px;" />
 </div>
+
 </asp:Content>
