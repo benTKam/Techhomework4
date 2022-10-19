@@ -20,7 +20,8 @@
                     
                     <a class="nav-item nav-link" href="Default.aspx">Home</a>
                     <a class="nav-item nav-link" href="PageTwo.aspx">Dispensing Department</a>
-                    <a class="nav-item nav-link" href="PageThree.aspx">Page Three</a>
+                    <a class="nav-item nav-link" href="PageThree.aspx">Owner Page</a>
+                    <a class="nav-item nav-link" href="PageFour.aspx">Vet Page</a>
             </div>
         </div>
     </nav>
